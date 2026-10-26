@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./cover.png" alt="XiaoJieAi Seedance 2.5 视频提示词：机器人雨夜送信的连续分镜示意" width="100%">
+  <img src="./cover.png" alt="XiaoJieAigc Seedance 2.5 视频提示词：机器人雨夜送信的连续分镜示意" width="100%">
 </p>
 
-<h1 align="center">Seedance 2.5 视频提示词 Skill</h1>
+<h1 align="center">XiaoJieAigc · Seedance 2.5 视频提示词 Skill</h1>
 
 <p align="center"><strong>把创意、素材、脚本与分镜，整理成4—30秒的视频提示词。</strong></p>
 <p align="center">从零构思 · 素材分析 · 脚本整理 · 精确分镜 · 镜头与音效</p>
@@ -33,7 +33,7 @@
 安装或导入后，复制下面的例子给支持 Skill 的 AI 工具：
 
 ```text
-使用 $seedance-2-5-video-prompt。
+使用 $xiaojieaigc-seedance-2-5-video-prompt。
 我想做一个12秒的温暖短片：送信机器人在雨后的街角，
 把一封信交给花店主人。三维动画风格，16:9，没有参考图。
 请先帮我考虑动作和镜头，再输出完整视频提示词。
@@ -43,7 +43,7 @@
 **已经有素材？这样说：**
 
 ```text
-使用 $seedance-2-5-video-prompt，帮我做15秒视频提示词。
+使用 $xiaojieaigc-seedance-2-5-video-prompt，帮我做15秒视频提示词。
 已上传角色.png、街道.png和参考视频。
 角色图只锁定脸、发型与服饰；街道图参考空间与光线；
 参考视频只借用镜头节奏，不使用里面的人物和声音。
@@ -125,7 +125,7 @@
 直接上传脚本或粘贴分镜，并说明哪些地方不能改：
 
 ```text
-使用 $seedance-2-5-video-prompt。
+使用 $xiaojieaigc-seedance-2-5-video-prompt。
 请保留我的镜头顺序和秒点，只补充运镜、光影与音效：
 0—4秒：角色走到窗边。
 4—8秒：角色停下，镜头从侧后方缓慢靠近。
@@ -139,14 +139,14 @@
 **方式一：让支持仓库安装的工具帮你导入。**
 
 ```text
-请从这个GitHub仓库导入视频提示词Skill：
-https://github.com/XiaoJieAi66/seedance-2-5-video-prompt
+请从这个GitHub仓库导入XiaoJieAigc视频提示词Skill：
+https://github.com/XiaoJieAi66/XiaoJieAigc-seedance-2-5-video-prompt
 技能文件是根目录的SKILL.md。
 如果当前工具无法安装，请说明手动导入方法，不要声称安装成功。
 安装后，先了解我想拍什么、希望多长，以及有哪些素材、脚本或分镜。
 ```
 
-**方式二：手动下载。** 点击仓库上方的 **Code → Download ZIP**，解压后，将包含 `SKILL.md` 的 `seedance-2-5-video-prompt` 文件夹导入你使用的工具。具体入口以该工具说明为准。
+**方式二：手动下载。** 点击仓库上方的 **Code → Download ZIP**，解压后，先把技能文件夹重命名为 `xiaojieaigc-seedance-2-5-video-prompt`，再将包含 `SKILL.md` 的 `xiaojieaigc-seedance-2-5-video-prompt` 文件夹导入你使用的工具。具体入口以该工具说明为准。
 
 普通聊天工具没有 Skill 安装能力时，可将 [SKILL.md](./SKILL.md) 全文作为工作说明发给 AI，再提供任务。
 
@@ -175,6 +175,6 @@ https://github.com/XiaoJieAi66/seedance-2-5-video-prompt
 
 ---
 
-**先准备角色：** [角色设定图提示词 Skill →](https://github.com/XiaoJieAi66/character-sheet-prompt)
+**先准备角色：** [角色设定图提示词 Skill →](https://github.com/XiaoJieAi66/XiaoJieAigc-character-sheet-prompt)
 
-<p align="center">由 <a href="https://github.com/XiaoJieAi66">XiaoJieAi</a> 整理 · 让想法变成清楚的镜头</p>
+<p align="center">由 <a href="https://github.com/XiaoJieAi66">XiaoJieAigc</a> 整理 · 让想法变成清楚的镜头</p>
